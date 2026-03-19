@@ -1,0 +1,59 @@
+osu file format v14
+
+[General]
+AudioFilename: audio7.mp3
+AudioLeadIn: 0
+PreviewTime: 40386
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 0
+LetterboxInBreaks: 0
+WidescreenStoryboard: 0
+
+[Editor]
+DistanceSpacing: 1.4
+BeatDivisor: 16
+GridSize: 4
+TimelineZoom: 1
+
+[Metadata]
+Title:K-Pop Jump Pack
+TitleUnicode:K-Pop Jump Pack
+Artist:Various Artists
+ArtistUnicode:Various Artists
+Creator:Carbone
+Version:Difficulty for Title
+Source:Various Artists - K-Pop Jump Pack
+Tags:k-pop kpop apink boo csr pop pop stayc teddy bear twice get loud itzy sneakers april lalalilala lovelyz ah choo aespa yeppi yeppi ive love dive izone fiesta aim training jump pack godmode
+BeatmapID:4308293
+BeatmapSetID:2060948
+
+[Difficulty]
+HPDrainRate:4
+CircleSize:4
+OverallDifficulty:10
+ApproachRate:10
+SliderMultiplier:3.59999990463257
+SliderTickRate:1
+
+[Events]
+//Background and Video events
+0,0,"STAYC_Teddy_Bear_Yoon_1.jpg",0,0
+//Break Periods
+//Storyboard Layer 0 (Background)
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
+
+[TimingPoints]
+220,444.444444444444,4,1,0,100,1,0
+42886,-76.9230769230769,4,1,0,100,0,0
+57108,-66.6666666666667,4,1,0,100,0,0
+66886,-58.8235294117647,4,1,0,100,0,0
+
+
+[HitObjects]
+42,96,331,5,0,0:0:0:0:
